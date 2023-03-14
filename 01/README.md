@@ -1,0 +1,1 @@
+1. To declare a variable in TS, you must specify the type. We have different types in TS which includes: string, boolean, number, any, array, etc. The types are all in lowercase.
