@@ -12,3 +12,9 @@
 
 7. In typealias, you can reuse TS objects anywhere in your code by declaring it just once. 
 
+8. The union type (|) is used to assign multiple types to a value. 
+
+9. The intersection type (&) will make a value have more than one type at the same time.
+
+10. Literal type gives a specific or exact value which cannot be changed. You can use the type alias to declare the values and then use them anywhere in your code.
+
